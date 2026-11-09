@@ -1,0 +1,14 @@
+[
+  {
+    "run": "Run 1 (cap 4096)",
+    "plain": { "passed": 17, "total": 18 },
+    "keepGoing": { "passed": 18, "total": 18 },
+    "note": "one plain answer truncated"
+  },
+  {
+    "run": "Run 2 (cap 8192)",
+    "plain": { "passed": 17, "total": 18 },
+    "keepGoing": { "passed": 16, "total": 18 },
+    "note": "no truncation"
+  }
+]
